@@ -1,5 +1,5 @@
 {
-  "name": "react-homework-template",
+  "name": "goit-react-hw-04-feedback",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://usai2005.github.io/goit-react-hw-04-feedback/",
@@ -36,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "prop-types": "^15.8.1"
   }
 }

@@ -1,0 +1,14 @@
+.statistic__list li:not(:last-child) {
+    margin-bottom: 5px;
+}
+
+.statistic__list p {
+    color: #086265;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.statistic__list span {
+    color: #04393a;
+    font-weight: 700;
+}
