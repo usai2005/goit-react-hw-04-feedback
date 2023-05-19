@@ -3,7 +3,7 @@ import { Statistics } from './Statistics/Statistics';
 import { FeedbackOptions } from './FeedbackOptions/FeedbackOptions';
 import { Section } from './Section/Section';
 import { Notification } from './Notification/Notification';
-import { reducer } from '../hooks/reducer';
+import { reducer } from '../services/reducer';
 
 export const App = ({ step }) => {
   const [feedbackState, dispatch] = useReducer(reducer, {
